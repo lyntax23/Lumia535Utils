@@ -1,3 +1,6 @@
+## Dilinizi seçin
+[English](https://github.com/lyntax23/Lumia535Utils/main/readme/README-en.md) Türkçe
+
 ## Lumia535Utils
 Lumia 535'de kullanılan araç dizinleri
 
